@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #0a0a0a;
+    color: #fff;
+    text-align: center;
+}
+header {
+    background: linear-gradient(to right, gold, orange);
+    color: #111;
+    padding: 40px 20px;
+}
+h1{
+color: gold;
+}
+.btn {
+    background: #111;
+    color: gold;
+    padding: 12px 25px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-weight: bold;
+}
+section { padding: 40px 20px; }
+input, select, textarea {
+    width: 80%;
+    padding: 12px;
+    margin: 10px 0;
+    border: none;
+    border-radius: 8px;
+}
+button {
+    background: gold;
+    color: #111;
+    padding: 12px 30px;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+}
